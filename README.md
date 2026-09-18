@@ -35,6 +35,3 @@ Python source code without executing it.
 5. Import/create the required tables.
 6. Open:
    http://localhost/PyGuard/
-
-## Developer
-Your Name
